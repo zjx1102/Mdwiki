@@ -4,20 +4,24 @@
 
 [Linux]()
 
-* [常用命令]()
+* [常用命令](Linux/常用命令/index.md)
 - - - -
-* [Ubuntu]()
-* [Centos]()
-* [Openwrt]()
+* [Ubuntu](Linux/Ubuntu/index.md)
+* [Centos](Linux/Centos/index.md)
+* [Openwrt](Linux/Openwrt/index.md)
 	
-[Os x]()
+[Os x](Os X/index.md)
+
 [Git](Git/index.md)
+
 [开发语言]()
 
-* [Lua]()
-* [Java]()
-* [Python]()
-* [NodeJS]()
+* [Lua](开发语言/Lua/index.md)
+* [Java](开发语言/Java/index.md)
+* [Python](开发语言/Python/index.md)
+* [NodeJS](开发语言/NodeJS/index.md)
+
+
 	
 	
 	
