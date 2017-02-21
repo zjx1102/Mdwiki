@@ -33,6 +33,10 @@ ubuntu系统的配置文件在：`/etc/default/docker`
 chkconfig docker on
 service docker start
 ```
+### 1.4 mac os 系统
+
+安装`boot2docker`，一个微型Linux系统。
+
 
 ## 2. 镜像
 ### 2.1 下载镜像
