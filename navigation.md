@@ -22,7 +22,7 @@
 * [NodeJS](开发语言/NodeJS/index.md)
 * [Php](开发语言/Php/index.md)
 
-[其他问题](其他问题/index.md)
+[网络技术](网络技术/index.md)
 
 	
 	
